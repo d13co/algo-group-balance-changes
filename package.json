@@ -32,10 +32,19 @@
     "test": "echo \"No tests configured\" && exit 0"
   },
   "keywords": [
-    "typescript"
+    "typescript",
+    "algorand"
   ],
-  "author": "",
+  "author": "D13",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d13co/algo-group-balance-changes.git"
+  },
+  "homepage": "https://github.com/d13co/algo-group-balance-changes#readme",
+  "bugs": {
+    "url": "https://github.com/d13co/algo-group-balance-changes/issues"
+  },
   "devDependencies": {
     "@eslint/js": "^9.0.0",
     "@types/node": "^20.11.0",
