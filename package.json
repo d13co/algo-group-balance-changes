@@ -1,5 +1,5 @@
 {
-  "name": "algo-group-balance-changes",
+  "name": "@d13co/algo-group-balance-impact",
   "version": "0.0.1",
   "type": "module",
   "description": "Calculate Txn and Group Balance Impact for Algorand",
